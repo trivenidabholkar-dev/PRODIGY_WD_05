@@ -1,4 +1,25 @@
-(OR replace with React if you used React)
+
+# 🌦️ Weather App
+
+A simple and responsive Weather Application that provides real-time weather information for any city.
+
+---
+
+## 🚀 Features
+
+- 🌍 Search weather by city name  
+- 🌡️ Shows temperature, humidity, and weather condition  
+- ☁️ Weather icons display  
+- 📱 Responsive design (mobile + desktop)  
+- ⚡ Fast and easy to use  
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  (OR replace with React if you used React)
 
 ---
 
