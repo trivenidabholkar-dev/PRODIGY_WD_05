@@ -83,9 +83,9 @@ weather-app/
 
 ## 👩‍💻 Author
 
-Tanvi Teli  
+Triveni Dabholkar 
 
-GitHub: https://github.com/your-username  
+GitHub: (https://github.com/trivenidabholkar-dev/PRODIGY_WD_05.git)
 
 ---
 
