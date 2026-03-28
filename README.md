@@ -36,7 +36,7 @@ http://localhost:5173/
 
 ## 🌐 Live Demo
 
-(Add your Netlify / Vercel link here)
+( https://trivenidabholkar-dev.github.io/PRODIGY_WD_05/)
 
 ---
 
